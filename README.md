@@ -1,7 +1,0 @@
-ACTIA IME combines hardware and software development, on-board electronics and intelligent vehicle diagnostics to create comprehensive mobility solutions. With high-performance embedded and connected architectures for various vehicle types, we support projects from the concept phase right through to after-sales. Vehicle Communication Interfaces (VCIs) have been ACTIA IME’s core business in the automotive sector for over 40 years. As part of the internationally active ACTIA Group, ACTIA IME GmbH is one of 30 branches across 17 different countries. With our headquarters in Braunschweig and a further site in Stuttgart (Böblingen), we are firmly rooted in the region whilst remaining close to our customers and partners.
-
-# Our sectors
-Passenger cars, off-highway vehicles, lorries, buses & coaches, light vehicles, commercial vehicles, railway
-
-# Research & Developement
-ACTIA IME offers a professional working environment with clearly structured development processes, modern tools and personalised training opportunities. Interdisciplinary teams enable close integration of hardware and software development, as well as the efficient implementation of challenging customer projects. The development division is characterised by work on complex systems in the fields of embedded systems, control unit development, communication interfaces and modern software architectures. This involves the use of the latest technologies, established development processes and high industry standards. 
